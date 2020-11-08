@@ -1,0 +1,25 @@
+{
+    "name": "qiu-cli",
+    "version": "0.0.1",
+    "description": "My first cli.",
+    "main": "index.js",
+    "bin": {
+        "qiu-cli": "./index.js"
+    },
+    "scripts": {
+        "test": "test"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+ssh://git@github.com/cloud-qiu/qiu-cli.git"
+    },
+    "keywords": [
+        "cli"
+    ],
+    "author": "qiuly",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/cloud-qiu/qiu-cli/issues"
+    },
+    "homepage": "https://github.com/cloud-qiu/qiu-cli#readme"
+}
